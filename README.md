@@ -1,3 +1,6 @@
+[![Discord](https://discordapp.com/api/guilds/414512153786187776/widget.png)](https://discord.gg/FAygeev)
+[![Discord Bots](https://discordbots.org/api/widget/status/414512049679237122.svg?noavatar=true)](https://discordbots.org/bot/414512049679237122)
+
 # Trident
 A high-quality multi-purpose discord bot
 
