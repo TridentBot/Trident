@@ -56,3 +56,6 @@ The following types are available:
 
 # Support Server
 [![Discord](https://discordapp.com/api/guilds/414512153786187776/widget.png?style=banner2)](https://discord.gg/FAygeev)
+
+# Other Links
+[![Discord Bots](https://discordbots.org/api/widget/414512049679237122.svg)](https://discordbots.org/bot/414512049679237122)
