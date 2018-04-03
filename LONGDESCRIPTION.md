@@ -15,7 +15,7 @@ Trident is a high quality, friendly, multi-purpose entertainment bot. With many 
 The prefix is what tells the bot that your message is a command and not just any message. The default prefix is `t.`, Let's say we wanted to change the prefix to `t!` we can use the `prefix` command so `t.prefix t!` which will change the prefix to `t!`. The prefix in DM's is `t.`, you can set a custom prefix per guild. You can always trigger the bot by using a mention prefix: `@Trident#8422`.
 
 # Usage
-Usage is a template for how a command can be used. It is made up of [**Aliases**](#Aliases) and [**Arguments**](#Arguments).
+Usage is a template for how a command can be used. It is made up of [**Aliases**](#aliases) and [**Arguments**](#arguments).
 
 # Aliases
 Command aliases, It's exactly what it sounds like. Multiple names for one command that you can use to trigger the same command with different names that will produce the same result. They're wrapped in `《 》` and separated by `|`, like this: `《info|what|details》`. This means in a guild where the prefix is `t.` that command can be triggered as `t.info`, `t.what` or `t.details`.
