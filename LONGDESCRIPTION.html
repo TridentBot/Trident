@@ -1,0 +1,60 @@
+<h1 id="trident">Trident</h1>
+<p>A high-quality multi-purpose discord bot</p>
+<h1 id="what-is-trident-">What is Trident?</h1>
+<p>Trident is a high quality, friendly, multi-purpose entertainment bot. With many features such as but not only meme images, image manipulation, moderation, and music! We support Youtube, Twitch, Soundcloud and more!</p>
+<h1 id="notable-features">Notable Features</h1>
+<ul>
+    <li>Music. Lag free music with the ability to play from many sources such as Youtube, Twitch, Soundcloud.</li>
+    <li>Moderation. Easy to use moderation commands such as ban, softban, kick, purge and more.</li>
+    <li>Image manipulation. The power to put an avatar/image on a template to create fantastic jokes with friends.</li>
+    <li>Join/Leave Messages. Welcome your new members to your server with customizable welcome/leave messages.</li>
+</ul>
+<h1 id="prefix">Prefix</h1>
+<p>The prefix is what tells the bot that your message is a command and not just any message. The default prefix is <code>t.</code>, Let&#39;s say we wanted to change the prefix to <code>t!</code> we can use the <code>prefix</code> command so <code>t.prefix t!</code>    which will change the prefix to <code>t!</code>. The prefix in DM&#39;s is <code>t.</code>, you can set a custom prefix per guild. You can always trigger the bot by using a mention prefix: <code>@Trident#8422</code>.</p>
+<h1 id="usage">Usage</h1>
+<p>Usage is a template for how a command can be used. It is made up of
+    <a href="#aliases"><strong>Aliases</strong></a> and
+    <a href="#arguments"><strong>Arguments</strong></a>.</p>
+<h1 id="aliases">Aliases</h1>
+<p>Command aliases, It&#39;s exactly what it sounds like. Multiple names for one command that you can use to trigger the same command with different names that will produce the same result. They&#39;re wrapped in <code>《 》</code> and separated by <code>|</code>,
+    like this: <code>《info|what|details》</code>. This means in a guild where the prefix is <code>t.</code> that command can be triggered as <code>t.info</code>, <code>t.what</code> or <code>t.details</code>.</p>
+<h1 id="arguments">Arguments</h1>
+<p>Arguments are the additional pieces of information you provide, to get the information you are looking for. Arguments are separated into 2 categories, required and optional. Required arguments are wrapped in <code>&lt; &gt;</code>. Optional arguments
+    are wrapped in <code>[ ]</code>. Arguments follow the following format <code>Name:Type{Min,Max}</code>.</p>
+<p>Example: <code>&lt;Points:int{1,50}&gt; [Level:int{1,120}]</code></p>
+<ul>
+    <li>Points is a required argument: it is expecting an integer type with a minimum value of 1 and maximum of 50.</li>
+    <li>Level is an optional argument: it is expecting an integer type with a minimum value of 1 and maximum of 120.</li>
+</ul>
+<p><strong>Note: Min &amp; Max may be omitted separately, or completely when the argument has no min or max.</strong></p>
+<h1 id="argument-types">Argument Types</h1>
+<p>Arguments expect certain types of data and are validated before the command is even run. For instance, if you provide a String (letters) where the bot is expecting a Number, that can be a problem if it isn&#39;t caught. Although, some arguments may accept
+    multiple types like: <code>&lt;ItemID:int|ItemName:str&gt;</code>. That single argument can be an ItemID as an integer or an ItemName as a string.</p>
+<p>The following types are available: </p>
+<ul>
+    <li><strong>literal</strong>: Literally matches the argument name. This is the default type if none is shown.</li>
+    <li><strong>boolean</strong>: <code>true</code> or <code>false</code></li>
+    <li><strong>float, num, number</strong>: Any rational number, written as a decimal. Min/Max refers to the Value.</li>
+    <li><strong>int, integer</strong>: Positive or Negative Whole Numbers. Min/Max refers to the Value.</li>
+    <li><strong>str, string</strong>: Letters and/or Letters and numbers mixed. Min/Max refers to the Character Length.</li>
+    <li><strong>url</strong>: A valid URL/Link.</li>
+    <li><strong>channel</strong>: A Discord channel id or mention.</li>
+    <li><strong>guild</strong>: A Discord Guild ID.</li>
+    <li><strong>member</strong>: A Mention or Discord User ID in the context of a guild.</li>
+    <li><strong>msg, message</strong>: A Discord Message ID.</li>
+    <li><strong>role</strong>: A Discord Role ID or role mention.</li>
+    <li><strong>user, mention</strong>: A Discord User ID or user mention.</li>
+    <li><strong>duration</strong>: Human formatted time like <code>15 minutes</code></li>
+    <li><strong>channelname</strong>: A channel id, channel name or channel mention</li>
+    <li><strong>guildname</strong>: A guild id or name.</li>
+    <li><strong>membername</strong>: A member username, nickname, id, user tag or mention.</li>
+    <li><strong>rolename</strong>: A role id, mention or name.</li>
+    <li><strong>songname</strong>: Used for resolving tracks in the play command.</li>
+    <li><strong>username</strong>: A user id, tag, username or mention.</li>
+</ul>
+<h1 id="support-server">Support Server</h1>
+<p>
+    <a href="https://discord.gg/FAygeev">
+        <img src="https://discordapp.com/api/guilds/414512153786187776/widget.png?style=banner2" alt="Discord">
+    </a>
+</p>
