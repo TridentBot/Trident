@@ -157,11 +157,28 @@ module.exports = class extends Language {
             COMMAND_BUNNY_EXTENDED: "Gets a very cute little bunny from an api and then sends it off to discord for you to recieve the cute picture in the channel the command was executed in",
             COMMAND_BUNNY_ERROR: "There has been an error while fetching a bunny. Please try again later",
             COMMAND_CAT_DESCRIPTION: "Gets cat pictures or gifs from the internet",
-            COMMAND_CAT_EXTENDED: "Uses a cat picture api service to bring you the cutest animals alive!",
+            COMMAND_CAT_EXTENDED: "Uses a cat picture api to bring you the cutest animals alive!",
             COMMAND_CAT_ERROR: "There has been an error while fetching a cat. Please try again later",
             COMMAND_CATFACT: fact => `Here is your cat fact, ${fact}`,
             COMMAND_CATFACT_DESCRIPTION: "Tells you interesting facts about cats",
-            COMMAND_CATFACT_EXTENDED: "Ever wanted to know an interesting fact about cats? Well now you can"
+            COMMAND_CATFACT_EXTENDED: "Ever wanted to know an interesting fact about cats? Well now you can",
+            COMMAND_DOG_DESCRIPTION: "Sends a random very cute doggo from the interwebs",
+            COMMAND_DOG_EXTENDED: "Uses a dog picture api to send you a very cute doggo",
+            COMMAND_DOG_ERROR: "There has been an error while fetching a doggo. Please try again later",
+            COMMAND_DOGFACT: fact => `Here is your dog fact, ${fact}`,
+            COMMAND_DOGFACT_DESCRIPTION: "Tells you interesting facts about dogs",
+            COMMAND_DOGFACT_EXTENDED: "Ever wanted to know an interesting fact about dogs? Well now you can",
+            COMMAND_OWL_DESCRIPTION: "Gets owl pictures or gifs from the internet",
+            COMMAND_OWL_EXTENDED: "Uses a owl picture api to bring you an owl",
+            COMMAND_OWL_ERROR: "There has been an error while fetching a owl. Please try again later",
+            COMMAND_PENGUIN_DESCRIPTION: "Gets penguin pictures or gifs from the internet",
+            COMMAND_PENGUIN_EXTENDED: "Shows you a random penguin picture",
+            COMMAND_SHIBA_DESCRIPTION: "Gets shiba pictures or gifs from the internet",
+            COMMAND_SHIBA_EXTENDED: "Uses a shiba picture api to bring you an shiba",
+            COMMAND_SHIBA_ERROR: "There has been an error while fetching a shiba. Please try again later",
+            COMMAND_TIGER_DESCRIPTION: "Gets tiger pictures or gifs from the internet",
+            COMMAND_TIGER_EXTENDED: "Uses a tiger picture api to bring you an tiger",
+            COMMAND_TIGER_ERROR: "There has been an error while fetching a tiger. Please try again later"
         };
     }
 
