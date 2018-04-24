@@ -178,7 +178,16 @@ module.exports = class extends Language {
             COMMAND_SHIBA_ERROR: "There has been an error while fetching a shiba. Please try again later",
             COMMAND_TIGER_DESCRIPTION: "Gets tiger pictures or gifs from the internet",
             COMMAND_TIGER_EXTENDED: "Uses a tiger picture api to bring you an tiger",
-            COMMAND_TIGER_ERROR: "There has been an error while fetching a tiger. Please try again later"
+            COMMAND_TIGER_ERROR: "There has been an error while fetching a tiger. Please try again later",
+            COMMAND_DUCK_DESCRIPTION: "Gets duck pictures or gifs from the internet",
+            COMMAND_DUCK_EXTENDED: "Uses a duck picture api to bring you an duck",
+            COMMAND_DUCK_ERROR: "There has been an error while fetching a duck. Please try again later",
+            COMMAND_FOX_DESCRIPTION: "Gets fox pictures or gifs from the internet",
+            COMMAND_FOX_EXTENDED: "Uses a fox picture api to bring you a fox",
+            COMMAND_FOX_ERROR: "There has been an error while fetching a fox. Please try again later",
+            COMMAND_LIZARD_DESCRIPTION: "Gets lizard pictures or gifs from the internet",
+            COMMAND_LIZARD_EXTENDED: "Uses a lizard picture api to bring you an lizard",
+            COMMAND_LIZARD_ERROR: "There has been an error while fetching a lizard. Please try again later"
         };
     }
 
