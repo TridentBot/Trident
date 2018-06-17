@@ -10,14 +10,14 @@
     <li>Join/Leave Messages. Welcome your new members to your server with customizable welcome/leave messages.</li>
 </ul>
 <h1 id="prefix">Prefix</h1>
-<p>The prefix is what tells the bot that your message is a command and not just any message. The default prefix is <code>t.</code>, Let&#39;s say we wanted to change the prefix to <code>t!</code> we can use the <code>prefix</code> command so <code>t.prefix t!</code>    which will change the prefix to <code>t!</code>. The prefix in DM&#39;s is <code>t.</code>, you can set a custom prefix per guild. You can always trigger the bot by using a mention prefix: <code>@Trident#8422</code>.</p>
+<p>The prefix is what tells the bot that your message is a command and not just any message. The default prefix is <code>t!</code>, Let&#39;s say we wanted to change the prefix to <code>t.</code> we can use the <code>prefix</code> command so <code>t!prefix t.</code> which will change the prefix to <code>t.</code>. The prefix in DM&#39;s is <code>t!</code>, you can set a custom prefix per guild. You can always trigger the bot by using a mention prefix: <code>@Trident#8422</code>.</p>
 <h1 id="usage">Usage</h1>
 <p>Usage is a template for how a command can be used. It is made up of
     <a href="#aliases"><strong>Aliases</strong></a> and
     <a href="#arguments"><strong>Arguments</strong></a>.</p>
 <h1 id="aliases">Aliases</h1>
 <p>Command aliases, It&#39;s exactly what it sounds like. Multiple names for one command that you can use to trigger the same command with different names that will produce the same result. They&#39;re wrapped in <code>《 》</code> and separated by <code>|</code>,
-    like this: <code>《info|what|details》</code>. This means in a guild where the prefix is <code>t.</code> that command can be triggered as <code>t.info</code>, <code>t.what</code> or <code>t.details</code>.</p>
+    like this: <code>《info|what|details》</code>. This means in a guild where the prefix is <code>t!</code> that command can be triggered as <code>t!info</code>, <code>t!what</code> or <code>t!details</code>.</p>
 <h1 id="arguments">Arguments</h1>
 <p>Arguments are the additional pieces of information you provide, to get the information you are looking for. Arguments are separated into 2 categories, required and optional. Required arguments are wrapped in <code>&lt; &gt;</code>. Optional arguments
     are wrapped in <code>[ ]</code>. Arguments follow the following format <code>Name:Type{Min,Max}</code>.</p>
