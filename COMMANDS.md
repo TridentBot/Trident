@@ -68,7 +68,7 @@
 
 | Command | Description |
 | --- | --- |
-| conf | Define per-server configuration. |
+| conf | Define per-guild configuration. |
 | prefix | Shows or sets the command prefix. |
 | setgoodbyemessage | Sets the goodbye message |
 | setwelcomemessage | Sets the welcome message |
@@ -93,6 +93,7 @@
 | Command | Description |
 | --- | --- |
 | coinflip | Flips a coin |
+| fortnite | View a player's Fortnite Battle Royale game statistics |
 | playgame | Gives a steam game open url based on the game you pick |
 | rps | Play rock-paper-scissors with the bot. |
 | slots | Slots machine mini game |
@@ -108,11 +109,6 @@
 | userinfo | Get information on a user or yourself. |
 | weather | Sends you the weather information for a provided location. |
 | youtubestats | Get YouTube Channel Statisitcs Directly From YouTube. |
-# Meme
-
-| Command | Description |
-| --- | --- |
-| noot | The noot noot meme command :)) |
 # Misc
 
 | Command | Description |
@@ -126,7 +122,6 @@
 | mca | Send a Minecraft Achievement image to the channel |
 | pat | Someone out there deserves a pat, let's do it! |
 | pick |  |
-| punch | Let's hit someone with a Strong Punch! |
 # Moderation
 
 | Command | Description |
@@ -145,8 +140,8 @@
 
 | Command | Description |
 | --- | --- |
-| clearqueue | Prune the queue list. |
-| leave | Clears the queue and leaves |
+| clearqueue | Prunes the music queue |
+| leave | Prunes the music queue |
 | nowplaying | Get information from the current song. |
 | pause | Pauses the current song. |
 | play | Play a song |
@@ -158,16 +153,18 @@
 
 | Command | Description |
 | --- | --- |
-| boobs | Gets a NSFW boob image. |
-| booty |  |
-| pussy | NSFW Pussy Picture. |
+| animeboobs | Delivers you NSFW anime boob images from the internet |
+| animepussy | Delivers you NSFW anime pussy images from the internet |
+| boobs | Delivers you NSFW boob images from the internet |
+| booty | Delivers you NSFW booty images from the internet |
+| pussy | Delivers you NSFW pussy images from the internet |
 # System
 
 | Command | Description |
 | --- | --- |
 | help | Display help for a command. |
 | info | Provides some information about this bot. |
-| invite | Displays the join server link of the bot. |
+| invite | Displays the join guild link of the bot. |
 | stats | Provides some details about the bot and stats. |
 # Tool
 
@@ -186,4 +183,4 @@
 | lmgtfy | Generate a short Let Me Google It For You Link. |
 | minecraft | Get the status of a minecraft server. |
 | remindme | creates a reminder |
-| shorten | Shorten's a long url with goo.gl. |
+| shortenurl | Shorten's long urls to short urls |
