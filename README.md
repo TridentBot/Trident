@@ -1,8 +1,11 @@
-[![Discord](https://discordapp.com/api/guilds/414512153786187776/widget.png)](https://discord.gg/FAygeev)
-[![Discord Bots](https://discordbots.org/api/widget/status/414512049679237122.svg?noavatar=true)](https://discordbots.org/bot/414512049679237122)
-
 # Trident
-A high-quality multi-purpose discord bot
+[![Discord Bots](https://discordbots.org/api/widget/414512049679237122.svg)](https://discordbots.org/bot/414512049679237122)
+[![Bots For Discord](https://botsfordiscord.com/api/v1/bots/414512049679237122/embed?theme=dark)](https://botsfordiscord.com/bot/414512049679237122)
+
+# Links
+ * [**Support Server**](https://discord.gg/FAygeev)
+ * [**Discord Bots Page**](https://discordbots.org/bot/414512049679237122)
+ * [**Listcord Page**](https://listcord.com/bot/414512049679237122)
 
 # What is Trident?
 Trident is a high quality, friendly, multi-purpose entertainment bot. With many features such as but not only meme images, image manipulation, moderation, and music! We support Youtube, Twitch, Soundcloud and more!
@@ -56,9 +59,3 @@ The following types are available:
   * **rolename**: A role id, mention or name.
   * **songname**: Used for resolving tracks in the play command.
   * **username**: A user id, tag, username or mention.
-
-# Support Server
-[![Discord](https://discordapp.com/api/guilds/414512153786187776/widget.png?style=banner2)](https://discord.gg/FAygeev)
-
-# Other Links
-[![Discord Bots](https://discordbots.org/api/widget/414512049679237122.svg)](https://discordbots.org/bot/414512049679237122)
