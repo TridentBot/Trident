@@ -1,6 +1,6 @@
 # Trident
 [![Discord Bots](https://discordbots.org/api/widget/414512049679237122.svg)](https://discordbots.org/bot/414512049679237122)
-[![Bots For Discord](https://botsfordiscord.com/api/v1/bots/414512049679237122/embed?theme=dark)](https://botsfordiscord.com/bot/414512049679237122)
+[![Discord Bot List](https://discordbotlist.com/bots/460847447602757633/widget)](https://discordbotlist.com/bots/460847447602757633)
 
 # Links
  * [Support Server](https://discord.gg/FAygeev)
