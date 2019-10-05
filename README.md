@@ -1,11 +1,4 @@
 # Trident
-[![Discord Bots](https://discordbots.org/api/widget/414512049679237122.svg)](https://discordbots.org/bot/414512049679237122)
-[![Discord Bot List](https://discordbotlist.com/bots/414512049679237122/widget)](https://discordbotlist.com/bots/414512049679237122)
-
-# Links
- * [Support Server](https://discord.gg/FAygeev)
- * [DBL](https://discordbots.org/bot/414512049679237122)
- * [Discord Bot List](https://discordbotlist.com/bots/414512049679237122)
 
 # What is Trident?
 Trident is a high quality, friendly, multi-purpose entertainment bot. With many features such as but not only meme images, image manipulation, moderation, and music! We support Youtube, Twitch, Soundcloud and more!
